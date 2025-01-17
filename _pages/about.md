@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p></p>
+    <p>Email: al.kal.horm@gmail.com</p>
     <p></p>
     <p>Birmingham, West Midlands, England, The United Kingdom</p>
 
